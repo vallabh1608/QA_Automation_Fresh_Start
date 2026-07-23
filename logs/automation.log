@@ -331,3 +331,13 @@
 [2026-07-23 14:26:30] [INFO] Log - Testing X-Axis restricted box.
 [2026-07-23 14:26:32] [INFO] Log - Testing Y-Axis restricted box.
 [2026-07-23 14:26:34] [INFO] Log - testAxisRestrictedDraggable passed successfully.
+[2026-07-23 14:27:18] [INFO] Log - Starting testContainerRestrictedElegant: Verifying container boundaries.
+[2026-07-23 14:27:24] [INFO] Log - Executing Scenario 1: Parent Container Boundary Smash.
+[2026-07-23 14:27:30] [INFO] Log - Executing Scenario 2: Span Parent Boundary Smash.
+[2026-07-23 14:27:35] [INFO] Log - testContainerRestrictedElegant passed successfully.
+[2026-07-23 14:27:49] [INFO] Log - Starting testSortableList...
+[2026-07-23 14:27:53] [INFO] Log - Executing random sorting sequence on List elements...
+[2026-07-23 14:27:56] [INFO] Log - testSortableList completed successfully.
+[2026-07-23 14:28:09] [INFO] Log - Starting testSortableGrid...
+[2026-07-23 14:28:12] [INFO] Log - Executing random sorting sequence on Grid elements...
+[2026-07-23 14:28:15] [INFO] Log - testSortableGrid completed successfully.
